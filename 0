@@ -1,0 +1,20 @@
+#1648803092
+source activate lyl_pr3.7
+#1648803093
+s
+#1648803094
+ls
+#1648803095
+cd projects/
+#1648803095
+ls
+#1648803097
+cd IIU/
+#1648803098
+ls
+#1648803114
+python3 model/memory_extraction_module.py 
+#1648803218
+python3 unit_test.py 
+#1648818901
+nvidia-smi
